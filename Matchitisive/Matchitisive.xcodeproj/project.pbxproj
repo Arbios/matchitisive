@@ -22,6 +22,7 @@
 		5A2238E321C06DC90048EBED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5A2238E621C06DC90048EBED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5A2238E821C06DC90048EBED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5AE978CF21C06F69006C89D9 /* MachineLearning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MachineLearning.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				5A2238E321C06DC90048EBED /* Assets.xcassets */,
 				5A2238E521C06DC90048EBED /* LaunchScreen.storyboard */,
 				5A2238E821C06DC90048EBED /* Info.plist */,
+				5AE978CF21C06F69006C89D9 /* MachineLearning.playground */,
 			);
 			path = Matchitisive;
 			sourceTree = "<group>";
